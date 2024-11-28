@@ -4,9 +4,7 @@ My name is Addison Ballif. I am currently a physics major at Brigham Young Unive
 
 I have been blessed with many opportunities to work on several different projects that have taught me a variety of skills. My github features much of the work I have done on these projects. 
 
-During the winter of 2023 I developed an iPhone app called the North 40. It is a daily planner and todo app that focuses on goal setting and is designed to encourage the user to focus on their goals. 
-
-During the spring of 2021 I developed a python GUI application designed to help the positron annihilation research group at my school analyze data. The app allows new students to easily load data, and perform the correct analysis. Part of the motivation for creating this program was to implement an improved mathematical model which we were developing. OUr previous method for analyzing the data made it difficult to use our new model. 
+During the winter of 2023 I developed an iPhone app called the North 40. It is a daily planner and todo app that focuses on goal setting and is designed to encourage the user to focus on their goals. During the spring of 2021 I developed a python GUI application designed to help the positron annihilation research group at my school analyze data. The app allows new students to easily load data, and perform the correct analysis. Part of the motivation for creating this program was to implement an improved mathematical model which we were developing. Our previous method for analyzing the data made it difficult to use our new model. Both of these programs are on my github. 
 
 
 
